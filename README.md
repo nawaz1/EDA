@@ -1,1 +1,1 @@
-Expolatory Data Analysis using python libraties ( Pandas , Numpy , Matplotlib , seabor ) by use a csv file (Unicorn_Companies.csv)
+Expolatory Data Analysis using python libraties ( Pandas , Numpy , Matplotlib , seaborn ) with a csv file (Unicorn_Companies.csv) by using Jupyter Notebook
